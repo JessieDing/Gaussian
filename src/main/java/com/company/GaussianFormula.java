@@ -13,6 +13,6 @@ public class GaussianFormula {
         for (int i = 1; i <= n; i++) {
             sum = sum + i;
         }
-        System.out.println("1 + 2 + 3 + ··· + n ="+sum);
+        System.out.println("1 + 2 + 3 + ··· + n = "+sum);
     }
 }
